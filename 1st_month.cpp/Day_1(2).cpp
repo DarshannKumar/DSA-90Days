@@ -1,5 +1,7 @@
 2.  Longest Harmonious Subsequence Leetcode Qn-594
 
+
+// the question was asking like how many integer are there who has difference of '1' so here we used frequency of numbers 
 class Solution {
 public:
     int findLHS(vector<int>& nums) {
