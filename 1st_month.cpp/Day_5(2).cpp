@@ -58,3 +58,6 @@ public:
     return false;
 }
 };
+
+
+// this is rodne do in brute force okk ....
